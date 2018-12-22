@@ -39,7 +39,8 @@ class enemy:
 
 class player:
     pos = [0, 0]
-    size = 30    speed = 3
+    size = 30
+    speed = 3
     col = basic.color.blue
 
     @staticmethod
